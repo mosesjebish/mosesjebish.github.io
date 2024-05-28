@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Tech and Tunes Testament</title>
+    <title>Posts on My Notes</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Tech and Tunes Testament</description>
+    <description>Recent content in Posts on My Notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 May 2024 15:34:05 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>Walk in the Light</title>
+      <link>http://localhost:1313/posts/walk-in-the-light/</link>
       <pubDate>Sat, 25 May 2024 15:34:05 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Hello there! I have been thinking for few days now, about the recent war in Israel</description>
+      <guid>http://localhost:1313/posts/walk-in-the-light/</guid>
+      <description>For you were once darkness, but now you are light in the Lord. Live as children of light Ephesians 5:8&#xA;According to Paul the Apostle, we were once &amp;ldquo;darkness&amp;rdquo;, but now we are &amp;ldquo;light&amp;rdquo;.</description>
     </item>
   </channel>
 </rss>
